@@ -9,4 +9,4 @@ This project focuses on logic, memory management, and turn-based mechanics.
 - Pivot Logic : Simulated the pivot mechanic of the game by manipulating array indices, allowing players to view and use letters from both Recto and Verso sides.
 - Game State & Rules Engine : Manage player inventories and the "letter push" mechanic toward the opponent.
 
-Developped by Dany LIM (@DanyLLL) and Yacoub CHERIEF (@yyy219)
+Developped by Dany LIM ([@DanyLLL](https://github.com/DanyLLL)) and Yacoub CHERIEF ([@yyy219](https://github.com/yyy219))
