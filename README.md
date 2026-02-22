@@ -1,6 +1,6 @@
 ## 🐙 Octo-Verso - Developped in **C**
 
-A digital version of the strategic board game **Octo-Verso**, developed in **C**. 
+A digital version of the strategic board game **Octo-Verso**, developed in **C**.  
 This project focuses on logic, memory management, and turn-based mechanics.
 
 ## 📚 What I learned  
